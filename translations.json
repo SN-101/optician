@@ -1,0 +1,359 @@
+{
+  "ar": {
+    "siteName": "متجر النظارات الفاخرة",
+    "nav": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "booking": "احجز الآن",
+      "about": "عن المتجر",
+      "wishlist": "المفضلة",
+      "language":"اللغة"
+    },
+    "home": {
+      "hero": {
+        "title": "اكتشف أناقتك مع نظاراتنا الفاخرة",
+        "subtitle": "مجموعة متنوعة من النظارات الطبية والشمسية بأحدث التصاميم العالمية",
+        "cta": "تصفح المجموعة",
+        "tryNow": "جرب الآن"
+      },
+      "features": {
+        "title": "لماذا تختارنا؟",
+        "feature1": {
+          "title": "جودة عالية",
+          "description": "نظارات من أفضل الماركات العالمية"
+        },
+        "feature2": {
+          "title": "تجربة افتراضية",
+          "description": "جرب النظارات مباشرة عبر الكاميرا"
+        },
+        "feature3": {
+          "title": "خدمة متميزة",
+          "description": "فريق محترف لمساعدتك في الاختيار"
+        },
+        "feature4": {
+          "title": "أسعار منافسة",
+          "description": "عروض وخصومات مستمرة"
+        }
+      },
+      "howItWorks": {
+        "title": "كيف يعمل؟",
+        "step1": "تصفح المجموعة",
+        "step2": "جرب النظارة",
+        "step3": "احجز موعد",
+        "step4": "استلم طلبك"
+      }
+    },
+    "products": {
+      "title": "مجموعتنا من النظارات",
+      "filters": {
+        "all": "الكل",
+        "type": "النوع",
+        "medical": "طبية",
+        "sunglasses": "شمسية",
+        "gender": "الجنس",
+        "men": "رجالي",
+        "women": "نسائي",
+        "kids": "أطفال",
+        "color": "اللون",
+        "search": "ابحث عن نظارة..."
+      },
+      "tryOn": "جرب الآن",
+      "addToWishlist": "أضف للمفضلة",
+      "removeFromWishlist": "إزالة من المفضلة",
+      "bookNow": "احجز الآن",
+      "mad": "د.م"
+    },
+    "booking": {
+      "title": "احجز موعدك الآن",
+      "subtitle": "املأ النموذج وسنتواصل معك قريباً",
+      "form": {
+        "name": "الاسم الكامل",
+        "phone": "رقم الهاتف",
+        "email": "البريد الإلكتروني",
+        "date": "تاريخ الموعد",
+        "time": "وقت الموعد",
+        "product": "النظارة المطلوبة",
+        "notes": "ملاحظات إضافية",
+        "submit": "إرسال الحجز",
+        "success": "تم إرسال طلبك بنجاح! سنتواصل معك قريباً",
+        "error": "حدث خطأ. يرجى المحاولة مرة أخرى"
+      }
+    },
+    "about": {
+      "title": "عن متجر النظارات الفاخرة",
+      "description": "نحن متجر متخصص في النظارات الطبية والشمسية، نقدم أفضل الماركات العالمية بأسعار منافسة. فريقنا المحترف جاهز لمساعدتك في اختيار النظارة المناسبة.",
+      "location": {
+        "title": "موقعنا",
+        "address": "شارع الملك فهد، الرياض، المملكة العربية السعودية"
+      },
+      "hours": {
+        "title": "أوقات العمل",
+        "weekdays": "السبت - الخميس: 9:00 صباحاً - 10:00 مساءً",
+        "friday": "الجمعة: 4:00 مساءً - 10:00 مساءً"
+      },
+      "contact": {
+        "title": "تواصل معنا",
+        "phone": "+966 50 123 4567",
+        "email": "info@opticsstore.com"
+      }
+    },
+    "tryOn": {
+      "title": "جرب النظارة",
+      "startCamera": "تشغيل الكاميرا",
+      "stopCamera": "إيقاف الكاميرا",
+      "capture": "التقاط صورة",
+      "download": "تحميل الصورة",
+      "share": "مشاركة",
+      "loading": "جاري التحميل...",
+      "selectProduct": "اختر نظارة من المنتجات"
+    },
+    "wishlist": {
+      "title": "قائمة المفضلة",
+      "empty": "قائمة المفضلة فارغة",
+      "items": "عنصر"
+    },
+    "common": {
+      "close": "إغلاق",
+      "loading": "جاري التحميل...",
+      "error": "حدث خطأ"
+    }
+  },
+  "en": {
+    "siteName": "Luxury Optics Store",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "booking": "Book Now",
+      "about": "About",
+      "wishlist": "Wishlist",
+      "language":"Language"
+    },
+    "home": {
+      "hero": {
+        "title": "Discover Your Style with Our Luxury Eyewear",
+        "subtitle": "A diverse collection of medical and sunglasses with the latest international designs",
+        "cta": "Browse Collection",
+        "tryNow": "Try Now"
+      },
+      "features": {
+        "title": "Why Choose Us?",
+        "feature1": {
+          "title": "High Quality",
+          "description": "Eyewear from the best international brands"
+        },
+        "feature2": {
+          "title": "Virtual Try-On",
+          "description": "Try glasses directly through your camera"
+        },
+        "feature3": {
+          "title": "Premium Service",
+          "description": "Professional team to help you choose"
+        },
+        "feature4": {
+          "title": "Competitive Prices",
+          "description": "Continuous offers and discounts"
+        }
+      },
+      "howItWorks": {
+        "title": "How It Works?",
+        "step1": "Browse Collection",
+        "step2": "Try Glasses",
+        "step3": "Book Appointment",
+        "step4": "Receive Order"
+      }
+    },
+    "products": {
+      "title": "Our Eyewear Collection",
+      "filters": {
+        "all": "All",
+        "type": "Type",
+        "medical": "Medical",
+        "sunglasses": "Sunglasses",
+        "gender": "Gender",
+        "men": "Men",
+        "women": "Women",
+        "kids": "Kids",
+        "color": "Color",
+        "search": "Search for glasses..."
+      },
+      "tryOn": "Try Now",
+      "addToWishlist": "Add to Wishlist",
+      "removeFromWishlist": "Remove from Wishlist",
+      "bookNow": "Book Now",
+      "mad": "MAD"
+    },
+    "booking": {
+      "title": "Book Your Appointment",
+      "subtitle": "Fill the form and we'll contact you soon",
+      "form": {
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "email": "Email",
+        "date": "Appointment Date",
+        "time": "Appointment Time",
+        "product": "Selected Glasses",
+        "notes": "Additional Notes",
+        "submit": "Submit Booking",
+        "success": "Your request has been sent successfully! We'll contact you soon",
+        "error": "An error occurred. Please try again"
+      }
+    },
+    "about": {
+      "title": "About Luxury Optics Store",
+      "description": "We are a specialized store in medical and sunglasses, offering the best international brands at competitive prices. Our professional team is ready to help you choose the right glasses.",
+      "location": {
+        "title": "Our Location",
+        "address": "King Fahd Street, Riyadh, Saudi Arabia"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "weekdays": "Saturday - Thursday: 9:00 AM - 10:00 PM",
+        "friday": "Friday: 4:00 PM - 10:00 PM"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "phone": "+966 50 123 4567",
+        "email": "info@opticsstore.com"
+      }
+    },
+    "tryOn": {
+      "title": "Try Glasses",
+      "startCamera": "Start Camera",
+      "stopCamera": "Stop Camera",
+      "capture": "Capture Photo",
+      "download": "Download Image",
+      "share": "Share",
+      "loading": "Loading...",
+      "selectProduct": "Select glasses from products"
+    },
+    "wishlist": {
+      "title": "Wishlist",
+      "empty": "Wishlist is empty",
+      "items": "items"
+    },
+    "common": {
+      "close": "Close",
+      "loading": "Loading...",
+      "error": "An error occurred"
+    }
+  },
+  "fr": {
+    "siteName": "Magasin d'Optique de Luxe",
+    "nav": {
+      "home": "Accueil",
+      "products": "Produits",
+      "booking": "Réserver",
+      "about": "À Propos",
+      "wishlist": "Favoris",
+      "language":"Language"
+    },
+    "home": {
+      "hero": {
+        "title": "Découvrez Votre Style avec Nos Lunettes de Luxe",
+        "subtitle": "Une collection variée de lunettes médicales et solaires avec les derniers designs internationaux",
+        "cta": "Parcourir la Collection",
+        "tryNow": "Essayer Maintenant"
+      },
+      "features": {
+        "title": "Pourquoi Nous Choisir?",
+        "feature1": {
+          "title": "Haute Qualité",
+          "description": "Lunettes des meilleures marques internationales"
+        },
+        "feature2": {
+          "title": "Essai Virtuel",
+          "description": "Essayez les lunettes directement via votre caméra"
+        },
+        "feature3": {
+          "title": "Service Premium",
+          "description": "Équipe professionnelle pour vous aider à choisir"
+        },
+        "feature4": {
+          "title": "Prix Compétitifs",
+          "description": "Offres et réductions continues"
+        }
+      },
+      "howItWorks": {
+        "title": "Comment Ça Marche?",
+        "step1": "Parcourir la Collection",
+        "step2": "Essayer les Lunettes",
+        "step3": "Prendre Rendez-vous",
+        "step4": "Recevoir la Commande"
+      }
+    },
+    "products": {
+      "title": "Notre Collection de Lunettes",
+      "filters": {
+        "all": "Tout",
+        "type": "Type",
+        "medical": "Médicales",
+        "sunglasses": "Solaires",
+        "gender": "Genre",
+        "men": "Hommes",
+        "women": "Femmes",
+        "kids": "Enfants",
+        "color": "Couleur",
+        "search": "Rechercher des lunettes..."
+      },
+      "tryOn": "Essayer",
+      "addToWishlist": "Ajouter aux Favoris",
+      "removeFromWishlist": "Retirer des Favoris",
+      "bookNow": "Réserver",
+      "mad": "MAD"
+    },
+    "booking": {
+      "title": "Réservez Votre Rendez-vous",
+      "subtitle": "Remplissez le formulaire et nous vous contactons bientôt",
+      "form": {
+        "name": "Nom Complet",
+        "phone": "Numéro de Téléphone",
+        "email": "Email",
+        "date": "Date du Rendez-vous",
+        "time": "Heure du Rendez-vous",
+        "product": "Lunettes Sélectionnées",
+        "notes": "Notes Supplémentaires",
+        "submit": "Envoyer la Réservation",
+        "success": "Votre demande a été envoyée avec succès! Nous vous contacterons bientôt",
+        "error": "Une erreur s'est produite. Veuillez réessayer"
+      }
+    },
+    "about": {
+      "title": "À Propos du Magasin d'Optique de Luxe",
+      "description": "Nous sommes un magasin spécialisé dans les lunettes médicales et solaires, offrant les meilleures marques internationales à des prix compétitifs. Notre équipe professionnelle est prête à vous aider à choisir les bonnes lunettes.",
+      "location": {
+        "title": "Notre Emplacement",
+        "address": "Rue King Fahd, Riyad, Arabie Saoudite"
+      },
+      "hours": {
+        "title": "Heures d'Ouverture",
+        "weekdays": "Samedi - Jeudi: 9:00 - 22:00",
+        "friday": "Vendredi: 16:00 - 22:00"
+      },
+      "contact": {
+        "title": "Contactez-Nous",
+        "phone": "+966 50 123 4567",
+        "email": "info@opticsstore.com"
+      }
+    },
+    "tryOn": {
+      "title": "Essayer les Lunettes",
+      "startCamera": "Démarrer la Caméra",
+      "stopCamera": "Arrêter la Caméra",
+      "capture": "Capturer la Photo",
+      "download": "Télécharger l'Image",
+      "share": "Partager",
+      "loading": "Chargement...",
+      "selectProduct": "Sélectionnez des lunettes dans les produits"
+    },
+    "wishlist": {
+      "title": "Favoris",
+      "empty": "La liste des favoris est vide",
+      "items": "articles"
+    },
+    "common": {
+      "close": "Fermer",
+      "loading": "Chargement...",
+      "error": "Une erreur s'est produite"
+    }
+  }
+}
