@@ -16,10 +16,10 @@ export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ chil
   const [translations, setTranslations] = useState<any>({});
 
   useEffect(() => {
-    fetch('/translations.json')
-      .then(res => res.json())
-      .then(data => setTranslations(data))
-      .catch(err => console.error('Error loading translations:', err));
+  fetch(`${import.meta.env.BASE_URL}translations.json`)
+    .then(res => res.json())
+    .then(data => setTranslations(data))
+    .catch(err => console.error('Error loading translations:', err));
   }, []);
 
   useEffect(() => {

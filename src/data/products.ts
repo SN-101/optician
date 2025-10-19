@@ -31,7 +31,7 @@ export const products: Product[] = [
     gender: 'men',
     color: 'أسود',
     image: 'https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id1.png', // ✅ مسار صحيح
+    glasses: `${import.meta.env.BASE_URL}glasses/id1.png`,
     rating: 4.5,
     scaleMultiplier: 2.2 // ✅
   },
@@ -48,7 +48,7 @@ export const products: Product[] = [
     gender: 'women',
     color: 'بني',
     image: 'https://images.pexels.com/photos/1627639/pexels-photo-1627639.jpeg?auto=compress&cs=tinysrgb&w=600', // ✅ مسافة زائدة أزيلت
-    glasses: './public/glasses/id2.png',
+    glasses: `${import.meta.env.BASE_URL}glasses/id2.png`,
     rating: 4.8,
     scaleMultiplier: 2.3
   },
@@ -65,7 +65,7 @@ export const products: Product[] = [
     gender: 'kids',
     color: 'أزرق',
     image: 'https://images.pexels.com/photos/1476215/pexels-photo-1476215.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id3.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id3.png`,
     rating: 4.6,
     scaleMultiplier: 1.8 // الأطفال → حجم أصغر
   },
@@ -82,7 +82,7 @@ export const products: Product[] = [
     gender: 'men',
     color: 'أسود',
     image: 'https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id4.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id4.png`,
     rating: 4.7,
     scaleMultiplier: 2.7
   },
@@ -99,7 +99,7 @@ export const products: Product[] = [
     gender: 'women',
     color: 'أسود',
     image: 'https://images.pexels.com/photos/947885/pexels-photo-947885.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id5.png', // ✅ تم استبدال 'hi'
+    glasses:`${import.meta.env.BASE_URL}glasses/id5.png`, // ✅ تم استبدال 'hi'
     rating: 4.9,
     scaleMultiplier: 2.0
   },
@@ -116,7 +116,7 @@ export const products: Product[] = [
     gender: 'men',
     color: 'بني',
     image: 'https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id6.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id6.png`,
     rating: 4.4,
     scaleMultiplier: 2.2
   },
@@ -133,7 +133,7 @@ export const products: Product[] = [
     gender: 'men',
     color: 'رمادي',
     image: 'https://images.pexels.com/photos/1743394/pexels-photo-1743394.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id7.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id7.png`,
     rating: 4.3,
     scaleMultiplier: 2.0
   },
@@ -150,7 +150,7 @@ export const products: Product[] = [
     gender: 'women',
     color: 'ذهبي',
     image: 'https://images.pexels.com/photos/2690323/pexels-photo-2690323.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id8.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id8.png`,
     rating: 5.0,
     scaleMultiplier: 2.5
   },
@@ -167,7 +167,7 @@ export const products: Product[] = [
     gender: 'kids',
     color: 'أحمر',
     image: 'https://images.pexels.com/photos/834949/pexels-photo-834949.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id9.png',
+    glasses:`${import.meta.env.BASE_URL}glasses/id9.png`,
     rating: 4.5,
     scaleMultiplier: 1.7
   },
@@ -184,7 +184,7 @@ export const products: Product[] = [
     gender: 'women',
     color: 'بني',
     image: 'https://images.pexels.com/photos/1031081/pexels-photo-1031081.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id10.png',
+    glasses: `${import.meta.env.BASE_URL}glasses/id10.png`,
     rating: 4.7,
     scaleMultiplier: 2.1
   },
@@ -201,7 +201,7 @@ export const products: Product[] = [
     gender: 'men',
     color: 'فضي',
     image: 'https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id11.png',
+    glasses: `${import.meta.env.BASE_URL}glasses/id11.png`,
     rating: 4.6,
     scaleMultiplier: 2.6 // النظارات الطيار عادة أوسع
   },
@@ -218,7 +218,7 @@ export const products: Product[] = [
     gender: 'kids',
     color: 'أخضر',
     image: 'https://images.pexels.com/photos/1694410/pexels-photo-1694410.jpeg?auto=compress&cs=tinysrgb&w=600',
-    glasses: './public/glasses/id12.png',
+    glasses: `${import.meta.env.BASE_URL}glasses/id12.png`,
     rating: 4.8,
     scaleMultiplier: 1.8
   }
